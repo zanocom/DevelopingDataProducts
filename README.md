@@ -1,2 +1,3 @@
 # DevelopingDataProducts
-Repository for Developing Data Products Course
+Repository for Developing Data Products Course.
+
